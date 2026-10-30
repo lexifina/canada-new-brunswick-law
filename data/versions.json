@@ -1,0 +1,669 @@
+{
+ "country": "CA-NB",
+ "acts": [
+  {
+   "slug": "catalogue",
+   "short": "Catalogue",
+   "title": "Catalogue of New Brunswick bills given Royal Assent (title, bill number and assent date only)",
+   "url": "https://www.legnb.ca/en/legislation/bills",
+   "versions": [
+    {
+     "from": "1996-12-19",
+     "units": 25,
+     "source_url": "https://www.legnb.ca/en/legislation/bills",
+     "sha256": "4cf1994a7ae224e81c3cf4183fcaa0af19cf4c24ceb67fad9d26468af456d1c4"
+    },
+    {
+     "from": "1997-02-28",
+     "units": 94,
+     "source_url": "https://www.legnb.ca/en/legislation/bills",
+     "sha256": "4cf1994a7ae224e81c3cf4183fcaa0af19cf4c24ceb67fad9d26468af456d1c4"
+    },
+    {
+     "from": "1997-12-19",
+     "units": 103,
+     "source_url": "https://www.legnb.ca/en/legislation/bills",
+     "sha256": "4cf1994a7ae224e81c3cf4183fcaa0af19cf4c24ceb67fad9d26468af456d1c4"
+    },
+    {
+     "from": "1998-02-26",
+     "units": 158,
+     "source_url": "https://www.legnb.ca/en/legislation/bills",
+     "sha256": "4cf1994a7ae224e81c3cf4183fcaa0af19cf4c24ceb67fad9d26468af456d1c4"
+    },
+    {
+     "from": "1998-12-18",
+     "units": 167,
+     "source_url": "https://www.legnb.ca/en/legislation/bills",
+     "sha256": "4cf1994a7ae224e81c3cf4183fcaa0af19cf4c24ceb67fad9d26468af456d1c4"
+    },
+    {
+     "from": "1999-03-12",
+     "units": 223,
+     "source_url": "https://www.legnb.ca/en/legislation/bills",
+     "sha256": "4cf1994a7ae224e81c3cf4183fcaa0af19cf4c24ceb67fad9d26468af456d1c4"
+    },
+    {
+     "from": "1999-12-17",
+     "units": 226,
+     "source_url": "https://www.legnb.ca/en/legislation/bills",
+     "sha256": "4cf1994a7ae224e81c3cf4183fcaa0af19cf4c24ceb67fad9d26468af456d1c4"
+    },
+    {
+     "from": "2000-02-18",
+     "units": 243,
+     "source_url": "https://www.legnb.ca/en/legislation/bills",
+     "sha256": "4cf1994a7ae224e81c3cf4183fcaa0af19cf4c24ceb67fad9d26468af456d1c4"
+    },
+    {
+     "from": "2000-04-28",
+     "units": 253,
+     "source_url": "https://www.legnb.ca/en/legislation/bills",
+     "sha256": "4cf1994a7ae224e81c3cf4183fcaa0af19cf4c24ceb67fad9d26468af456d1c4"
+    },
+    {
+     "from": "2000-06-16",
+     "units": 272,
+     "source_url": "https://www.legnb.ca/en/legislation/bills",
+     "sha256": "4cf1994a7ae224e81c3cf4183fcaa0af19cf4c24ceb67fad9d26468af456d1c4"
+    },
+    {
+     "from": "2000-12-06",
+     "units": 282,
+     "source_url": "https://www.legnb.ca/en/legislation/bills",
+     "sha256": "4cf1994a7ae224e81c3cf4183fcaa0af19cf4c24ceb67fad9d26468af456d1c4"
+    },
+    {
+     "from": "2000-12-20",
+     "units": 293,
+     "source_url": "https://www.legnb.ca/en/legislation/bills",
+     "sha256": "4cf1994a7ae224e81c3cf4183fcaa0af19cf4c24ceb67fad9d26468af456d1c4"
+    },
+    {
+     "from": "2001-03-05",
+     "units": 294,
+     "source_url": "https://www.legnb.ca/en/legislation/bills",
+     "sha256": "4cf1994a7ae224e81c3cf4183fcaa0af19cf4c24ceb67fad9d26468af456d1c4"
+    },
+    {
+     "from": "2001-06-01",
+     "units": 331,
+     "source_url": "https://www.legnb.ca/en/legislation/bills",
+     "sha256": "4cf1994a7ae224e81c3cf4183fcaa0af19cf4c24ceb67fad9d26468af456d1c4"
+    },
+    {
+     "from": "2001-12-21",
+     "units": 344,
+     "source_url": "https://www.legnb.ca/en/legislation/bills",
+     "sha256": "4cf1994a7ae224e81c3cf4183fcaa0af19cf4c24ceb67fad9d26468af456d1c4"
+    },
+    {
+     "from": "2002-01-11",
+     "units": 349,
+     "source_url": "https://www.legnb.ca/en/legislation/bills",
+     "sha256": "4cf1994a7ae224e81c3cf4183fcaa0af19cf4c24ceb67fad9d26468af456d1c4"
+    },
+    {
+     "from": "2002-06-07",
+     "units": 391,
+     "source_url": "https://www.legnb.ca/en/legislation/bills",
+     "sha256": "4cf1994a7ae224e81c3cf4183fcaa0af19cf4c24ceb67fad9d26468af456d1c4"
+    },
+    {
+     "from": "2002-12-20",
+     "units": 403,
+     "source_url": "https://www.legnb.ca/en/legislation/bills",
+     "sha256": "4cf1994a7ae224e81c3cf4183fcaa0af19cf4c24ceb67fad9d26468af456d1c4"
+    },
+    {
+     "from": "2003-02-21",
+     "units": 410,
+     "source_url": "https://www.legnb.ca/en/legislation/bills",
+     "sha256": "4cf1994a7ae224e81c3cf4183fcaa0af19cf4c24ceb67fad9d26468af456d1c4"
+    },
+    {
+     "from": "2003-04-11",
+     "units": 444,
+     "source_url": "https://www.legnb.ca/en/legislation/bills",
+     "sha256": "4cf1994a7ae224e81c3cf4183fcaa0af19cf4c24ceb67fad9d26468af456d1c4"
+    },
+    {
+     "from": "2003-08-08",
+     "units": 445,
+     "source_url": "https://www.legnb.ca/en/legislation/bills",
+     "sha256": "4cf1994a7ae224e81c3cf4183fcaa0af19cf4c24ceb67fad9d26468af456d1c4"
+    },
+    {
+     "from": "2003-12-19",
+     "units": 450,
+     "source_url": "https://www.legnb.ca/en/legislation/bills",
+     "sha256": "4cf1994a7ae224e81c3cf4183fcaa0af19cf4c24ceb67fad9d26468af456d1c4"
+    },
+    {
+     "from": "2004-04-08",
+     "units": 451,
+     "source_url": "https://www.legnb.ca/en/legislation/bills",
+     "sha256": "4cf1994a7ae224e81c3cf4183fcaa0af19cf4c24ceb67fad9d26468af456d1c4"
+    },
+    {
+     "from": "2004-04-23",
+     "units": 452,
+     "source_url": "https://www.legnb.ca/en/legislation/bills",
+     "sha256": "4cf1994a7ae224e81c3cf4183fcaa0af19cf4c24ceb67fad9d26468af456d1c4"
+    },
+    {
+     "from": "2004-05-28",
+     "units": 468,
+     "source_url": "https://www.legnb.ca/en/legislation/bills",
+     "sha256": "4cf1994a7ae224e81c3cf4183fcaa0af19cf4c24ceb67fad9d26468af456d1c4"
+    },
+    {
+     "from": "2004-06-08",
+     "units": 469,
+     "source_url": "https://www.legnb.ca/en/legislation/bills",
+     "sha256": "4cf1994a7ae224e81c3cf4183fcaa0af19cf4c24ceb67fad9d26468af456d1c4"
+    },
+    {
+     "from": "2004-06-30",
+     "units": 501,
+     "source_url": "https://www.legnb.ca/en/legislation/bills",
+     "sha256": "4cf1994a7ae224e81c3cf4183fcaa0af19cf4c24ceb67fad9d26468af456d1c4"
+    },
+    {
+     "from": "2004-12-17",
+     "units": 506,
+     "source_url": "https://www.legnb.ca/en/legislation/bills",
+     "sha256": "4cf1994a7ae224e81c3cf4183fcaa0af19cf4c24ceb67fad9d26468af456d1c4"
+    },
+    {
+     "from": "2005-01-21",
+     "units": 512,
+     "source_url": "https://www.legnb.ca/en/legislation/bills",
+     "sha256": "4cf1994a7ae224e81c3cf4183fcaa0af19cf4c24ceb67fad9d26468af456d1c4"
+    },
+    {
+     "from": "2005-04-14",
+     "units": 515,
+     "source_url": "https://www.legnb.ca/en/legislation/bills",
+     "sha256": "4cf1994a7ae224e81c3cf4183fcaa0af19cf4c24ceb67fad9d26468af456d1c4"
+    },
+    {
+     "from": "2005-06-03",
+     "units": 524,
+     "source_url": "https://www.legnb.ca/en/legislation/bills",
+     "sha256": "4cf1994a7ae224e81c3cf4183fcaa0af19cf4c24ceb67fad9d26468af456d1c4"
+    },
+    {
+     "from": "2005-06-30",
+     "units": 544,
+     "source_url": "https://www.legnb.ca/en/legislation/bills",
+     "sha256": "4cf1994a7ae224e81c3cf4183fcaa0af19cf4c24ceb67fad9d26468af456d1c4"
+    },
+    {
+     "from": "2005-12-22",
+     "units": 548,
+     "source_url": "https://www.legnb.ca/en/legislation/bills",
+     "sha256": "4cf1994a7ae224e81c3cf4183fcaa0af19cf4c24ceb67fad9d26468af456d1c4"
+    },
+    {
+     "from": "2006-04-13",
+     "units": 553,
+     "source_url": "https://www.legnb.ca/en/legislation/bills",
+     "sha256": "4cf1994a7ae224e81c3cf4183fcaa0af19cf4c24ceb67fad9d26468af456d1c4"
+    },
+    {
+     "from": "2006-05-12",
+     "units": 555,
+     "source_url": "https://www.legnb.ca/en/legislation/bills",
+     "sha256": "4cf1994a7ae224e81c3cf4183fcaa0af19cf4c24ceb67fad9d26468af456d1c4"
+    },
+    {
+     "from": "2006-06-22",
+     "units": 590,
+     "source_url": "https://www.legnb.ca/en/legislation/bills",
+     "sha256": "4cf1994a7ae224e81c3cf4183fcaa0af19cf4c24ceb67fad9d26468af456d1c4"
+    },
+    {
+     "from": "2007-03-02",
+     "units": 600,
+     "source_url": "https://www.legnb.ca/en/legislation/bills",
+     "sha256": "4cf1994a7ae224e81c3cf4183fcaa0af19cf4c24ceb67fad9d26468af456d1c4"
+    },
+    {
+     "from": "2007-03-30",
+     "units": 612,
+     "source_url": "https://www.legnb.ca/en/legislation/bills",
+     "sha256": "4cf1994a7ae224e81c3cf4183fcaa0af19cf4c24ceb67fad9d26468af456d1c4"
+    },
+    {
+     "from": "2007-05-30",
+     "units": 635,
+     "source_url": "https://www.legnb.ca/en/legislation/bills",
+     "sha256": "4cf1994a7ae224e81c3cf4183fcaa0af19cf4c24ceb67fad9d26468af456d1c4"
+    },
+    {
+     "from": "2007-06-26",
+     "units": 661,
+     "source_url": "https://www.legnb.ca/en/legislation/bills",
+     "sha256": "4cf1994a7ae224e81c3cf4183fcaa0af19cf4c24ceb67fad9d26468af456d1c4"
+    },
+    {
+     "from": "2007-07-06",
+     "units": 664,
+     "source_url": "https://www.legnb.ca/en/legislation/bills",
+     "sha256": "4cf1994a7ae224e81c3cf4183fcaa0af19cf4c24ceb67fad9d26468af456d1c4"
+    },
+    {
+     "from": "2007-12-20",
+     "units": 679,
+     "source_url": "https://www.legnb.ca/en/legislation/bills",
+     "sha256": "4cf1994a7ae224e81c3cf4183fcaa0af19cf4c24ceb67fad9d26468af456d1c4"
+    },
+    {
+     "from": "2008-03-28",
+     "units": 680,
+     "source_url": "https://www.legnb.ca/en/legislation/bills",
+     "sha256": "4cf1994a7ae224e81c3cf4183fcaa0af19cf4c24ceb67fad9d26468af456d1c4"
+    },
+    {
+     "from": "2008-04-30",
+     "units": 707,
+     "source_url": "https://www.legnb.ca/en/legislation/bills",
+     "sha256": "4cf1994a7ae224e81c3cf4183fcaa0af19cf4c24ceb67fad9d26468af456d1c4"
+    },
+    {
+     "from": "2008-06-18",
+     "units": 732,
+     "source_url": "https://www.legnb.ca/en/legislation/bills",
+     "sha256": "4cf1994a7ae224e81c3cf4183fcaa0af19cf4c24ceb67fad9d26468af456d1c4"
+    },
+    {
+     "from": "2008-12-19",
+     "units": 753,
+     "source_url": "https://www.legnb.ca/en/legislation/bills",
+     "sha256": "4cf1994a7ae224e81c3cf4183fcaa0af19cf4c24ceb67fad9d26468af456d1c4"
+    },
+    {
+     "from": "2009-04-03",
+     "units": 755,
+     "source_url": "https://www.legnb.ca/en/legislation/bills",
+     "sha256": "4cf1994a7ae224e81c3cf4183fcaa0af19cf4c24ceb67fad9d26468af456d1c4"
+    },
+    {
+     "from": "2009-05-01",
+     "units": 763,
+     "source_url": "https://www.legnb.ca/en/legislation/bills",
+     "sha256": "4cf1994a7ae224e81c3cf4183fcaa0af19cf4c24ceb67fad9d26468af456d1c4"
+    },
+    {
+     "from": "2009-06-19",
+     "units": 812,
+     "source_url": "https://www.legnb.ca/en/legislation/bills",
+     "sha256": "4cf1994a7ae224e81c3cf4183fcaa0af19cf4c24ceb67fad9d26468af456d1c4"
+    },
+    {
+     "from": "2009-12-18",
+     "units": 825,
+     "source_url": "https://www.legnb.ca/en/legislation/bills",
+     "sha256": "4cf1994a7ae224e81c3cf4183fcaa0af19cf4c24ceb67fad9d26468af456d1c4"
+    },
+    {
+     "from": "2010-02-26",
+     "units": 831,
+     "source_url": "https://www.legnb.ca/en/legislation/bills",
+     "sha256": "4cf1994a7ae224e81c3cf4183fcaa0af19cf4c24ceb67fad9d26468af456d1c4"
+    },
+    {
+     "from": "2010-03-26",
+     "units": 840,
+     "source_url": "https://www.legnb.ca/en/legislation/bills",
+     "sha256": "4cf1994a7ae224e81c3cf4183fcaa0af19cf4c24ceb67fad9d26468af456d1c4"
+    },
+    {
+     "from": "2010-04-16",
+     "units": 861,
+     "source_url": "https://www.legnb.ca/en/legislation/bills",
+     "sha256": "4cf1994a7ae224e81c3cf4183fcaa0af19cf4c24ceb67fad9d26468af456d1c4"
+    },
+    {
+     "from": "2010-12-17",
+     "units": 872,
+     "source_url": "https://www.legnb.ca/en/legislation/bills",
+     "sha256": "4cf1994a7ae224e81c3cf4183fcaa0af19cf4c24ceb67fad9d26468af456d1c4"
+    },
+    {
+     "from": "2011-04-01",
+     "units": 873,
+     "source_url": "https://www.legnb.ca/en/legislation/bills",
+     "sha256": "4cf1994a7ae224e81c3cf4183fcaa0af19cf4c24ceb67fad9d26468af456d1c4"
+    },
+    {
+     "from": "2011-05-11",
+     "units": 874,
+     "source_url": "https://www.legnb.ca/en/legislation/bills",
+     "sha256": "4cf1994a7ae224e81c3cf4183fcaa0af19cf4c24ceb67fad9d26468af456d1c4"
+    },
+    {
+     "from": "2011-06-10",
+     "units": 914,
+     "source_url": "https://www.legnb.ca/en/legislation/bills",
+     "sha256": "4cf1994a7ae224e81c3cf4183fcaa0af19cf4c24ceb67fad9d26468af456d1c4"
+    },
+    {
+     "from": "2011-12-21",
+     "units": 930,
+     "source_url": "https://www.legnb.ca/en/legislation/bills",
+     "sha256": "4cf1994a7ae224e81c3cf4183fcaa0af19cf4c24ceb67fad9d26468af456d1c4"
+    },
+    {
+     "from": "2012-04-24",
+     "units": 936,
+     "source_url": "https://www.legnb.ca/en/legislation/bills",
+     "sha256": "4cf1994a7ae224e81c3cf4183fcaa0af19cf4c24ceb67fad9d26468af456d1c4"
+    },
+    {
+     "from": "2012-05-11",
+     "units": 937,
+     "source_url": "https://www.legnb.ca/en/legislation/bills",
+     "sha256": "4cf1994a7ae224e81c3cf4183fcaa0af19cf4c24ceb67fad9d26468af456d1c4"
+    },
+    {
+     "from": "2012-06-13",
+     "units": 972,
+     "source_url": "https://www.legnb.ca/en/legislation/bills",
+     "sha256": "4cf1994a7ae224e81c3cf4183fcaa0af19cf4c24ceb67fad9d26468af456d1c4"
+    },
+    {
+     "from": "2012-12-20",
+     "units": 991,
+     "source_url": "https://www.legnb.ca/en/legislation/bills",
+     "sha256": "4cf1994a7ae224e81c3cf4183fcaa0af19cf4c24ceb67fad9d26468af456d1c4"
+    },
+    {
+     "from": "2013-06-05",
+     "units": 994,
+     "source_url": "https://www.legnb.ca/en/legislation/bills",
+     "sha256": "4cf1994a7ae224e81c3cf4183fcaa0af19cf4c24ceb67fad9d26468af456d1c4"
+    },
+    {
+     "from": "2013-06-21",
+     "units": 1030,
+     "source_url": "https://www.legnb.ca/en/legislation/bills",
+     "sha256": "4cf1994a7ae224e81c3cf4183fcaa0af19cf4c24ceb67fad9d26468af456d1c4"
+    },
+    {
+     "from": "2013-12-13",
+     "units": 1042,
+     "source_url": "https://www.legnb.ca/en/legislation/bills",
+     "sha256": "4cf1994a7ae224e81c3cf4183fcaa0af19cf4c24ceb67fad9d26468af456d1c4"
+    },
+    {
+     "from": "2014-02-19",
+     "units": 1043,
+     "source_url": "https://www.legnb.ca/en/legislation/bills",
+     "sha256": "4cf1994a7ae224e81c3cf4183fcaa0af19cf4c24ceb67fad9d26468af456d1c4"
+    },
+    {
+     "from": "2014-03-26",
+     "units": 1052,
+     "source_url": "https://www.legnb.ca/en/legislation/bills",
+     "sha256": "4cf1994a7ae224e81c3cf4183fcaa0af19cf4c24ceb67fad9d26468af456d1c4"
+    },
+    {
+     "from": "2014-05-21",
+     "units": 1109,
+     "source_url": "https://www.legnb.ca/en/legislation/bills",
+     "sha256": "4cf1994a7ae224e81c3cf4183fcaa0af19cf4c24ceb67fad9d26468af456d1c4"
+    },
+    {
+     "from": "2014-07-29",
+     "units": 1110,
+     "source_url": "https://www.legnb.ca/en/legislation/bills",
+     "sha256": "4cf1994a7ae224e81c3cf4183fcaa0af19cf4c24ceb67fad9d26468af456d1c4"
+    },
+    {
+     "from": "2014-12-19",
+     "units": 1114,
+     "source_url": "https://www.legnb.ca/en/legislation/bills",
+     "sha256": "4cf1994a7ae224e81c3cf4183fcaa0af19cf4c24ceb67fad9d26468af456d1c4"
+    },
+    {
+     "from": "2015-03-27",
+     "units": 1121,
+     "source_url": "https://www.legnb.ca/en/legislation/bills",
+     "sha256": "4cf1994a7ae224e81c3cf4183fcaa0af19cf4c24ceb67fad9d26468af456d1c4"
+    },
+    {
+     "from": "2015-06-05",
+     "units": 1159,
+     "source_url": "https://www.legnb.ca/en/legislation/bills",
+     "sha256": "4cf1994a7ae224e81c3cf4183fcaa0af19cf4c24ceb67fad9d26468af456d1c4"
+    },
+    {
+     "from": "2016-02-11",
+     "units": 1167,
+     "source_url": "https://www.legnb.ca/en/legislation/bills",
+     "sha256": "4cf1994a7ae224e81c3cf4183fcaa0af19cf4c24ceb67fad9d26468af456d1c4"
+    },
+    {
+     "from": "2016-04-08",
+     "units": 1169,
+     "source_url": "https://www.legnb.ca/en/legislation/bills",
+     "sha256": "4cf1994a7ae224e81c3cf4183fcaa0af19cf4c24ceb67fad9d26468af456d1c4"
+    },
+    {
+     "from": "2016-06-28",
+     "units": 1185,
+     "source_url": "https://www.legnb.ca/en/legislation/bills",
+     "sha256": "4cf1994a7ae224e81c3cf4183fcaa0af19cf4c24ceb67fad9d26468af456d1c4"
+    },
+    {
+     "from": "2016-07-08",
+     "units": 1195,
+     "source_url": "https://www.legnb.ca/en/legislation/bills",
+     "sha256": "4cf1994a7ae224e81c3cf4183fcaa0af19cf4c24ceb67fad9d26468af456d1c4"
+    },
+    {
+     "from": "2016-12-16",
+     "units": 1213,
+     "source_url": "https://www.legnb.ca/en/legislation/bills",
+     "sha256": "4cf1994a7ae224e81c3cf4183fcaa0af19cf4c24ceb67fad9d26468af456d1c4"
+    },
+    {
+     "from": "2017-03-31",
+     "units": 1219,
+     "source_url": "https://www.legnb.ca/en/legislation/bills",
+     "sha256": "4cf1994a7ae224e81c3cf4183fcaa0af19cf4c24ceb67fad9d26468af456d1c4"
+    },
+    {
+     "from": "2017-05-05",
+     "units": 1253,
+     "source_url": "https://www.legnb.ca/en/legislation/bills",
+     "sha256": "4cf1994a7ae224e81c3cf4183fcaa0af19cf4c24ceb67fad9d26468af456d1c4"
+    },
+    {
+     "from": "2017-12-20",
+     "units": 1277,
+     "source_url": "https://www.legnb.ca/en/legislation/bills",
+     "sha256": "4cf1994a7ae224e81c3cf4183fcaa0af19cf4c24ceb67fad9d26468af456d1c4"
+    },
+    {
+     "from": "2018-03-16",
+     "units": 1294,
+     "source_url": "https://www.legnb.ca/en/legislation/bills",
+     "sha256": "4cf1994a7ae224e81c3cf4183fcaa0af19cf4c24ceb67fad9d26468af456d1c4"
+    },
+    {
+     "from": "2018-12-12",
+     "units": 1295,
+     "source_url": "https://www.legnb.ca/en/legislation/bills",
+     "sha256": "4cf1994a7ae224e81c3cf4183fcaa0af19cf4c24ceb67fad9d26468af456d1c4"
+    },
+    {
+     "from": "2019-03-29",
+     "units": 1299,
+     "source_url": "https://www.legnb.ca/en/legislation/bills",
+     "sha256": "4cf1994a7ae224e81c3cf4183fcaa0af19cf4c24ceb67fad9d26468af456d1c4"
+    },
+    {
+     "from": "2019-06-14",
+     "units": 1322,
+     "source_url": "https://www.legnb.ca/en/legislation/bills",
+     "sha256": "4cf1994a7ae224e81c3cf4183fcaa0af19cf4c24ceb67fad9d26468af456d1c4"
+    },
+    {
+     "from": "2019-12-20",
+     "units": 1336,
+     "source_url": "https://www.legnb.ca/en/legislation/bills",
+     "sha256": "4cf1994a7ae224e81c3cf4183fcaa0af19cf4c24ceb67fad9d26468af456d1c4"
+    },
+    {
+     "from": "2020-03-17",
+     "units": 1347,
+     "source_url": "https://www.legnb.ca/en/legislation/bills",
+     "sha256": "4cf1994a7ae224e81c3cf4183fcaa0af19cf4c24ceb67fad9d26468af456d1c4"
+    },
+    {
+     "from": "2020-04-17",
+     "units": 1349,
+     "source_url": "https://www.legnb.ca/en/legislation/bills",
+     "sha256": "4cf1994a7ae224e81c3cf4183fcaa0af19cf4c24ceb67fad9d26468af456d1c4"
+    },
+    {
+     "from": "2020-06-18",
+     "units": 1355,
+     "source_url": "https://www.legnb.ca/en/legislation/bills",
+     "sha256": "4cf1994a7ae224e81c3cf4183fcaa0af19cf4c24ceb67fad9d26468af456d1c4"
+    },
+    {
+     "from": "2020-12-18",
+     "units": 1374,
+     "source_url": "https://www.legnb.ca/en/legislation/bills",
+     "sha256": "4cf1994a7ae224e81c3cf4183fcaa0af19cf4c24ceb67fad9d26468af456d1c4"
+    },
+    {
+     "from": "2021-03-26",
+     "units": 1380,
+     "source_url": "https://www.legnb.ca/en/legislation/bills",
+     "sha256": "4cf1994a7ae224e81c3cf4183fcaa0af19cf4c24ceb67fad9d26468af456d1c4"
+    },
+    {
+     "from": "2021-06-10",
+     "units": 1381,
+     "source_url": "https://www.legnb.ca/en/legislation/bills",
+     "sha256": "4cf1994a7ae224e81c3cf4183fcaa0af19cf4c24ceb67fad9d26468af456d1c4"
+    },
+    {
+     "from": "2021-06-11",
+     "units": 1408,
+     "source_url": "https://www.legnb.ca/en/legislation/bills",
+     "sha256": "4cf1994a7ae224e81c3cf4183fcaa0af19cf4c24ceb67fad9d26468af456d1c4"
+    },
+    {
+     "from": "2021-12-17",
+     "units": 1420,
+     "source_url": "https://www.legnb.ca/en/legislation/bills",
+     "sha256": "4cf1994a7ae224e81c3cf4183fcaa0af19cf4c24ceb67fad9d26468af456d1c4"
+    },
+    {
+     "from": "2022-04-01",
+     "units": 1425,
+     "source_url": "https://www.legnb.ca/en/legislation/bills",
+     "sha256": "4cf1994a7ae224e81c3cf4183fcaa0af19cf4c24ceb67fad9d26468af456d1c4"
+    },
+    {
+     "from": "2022-06-10",
+     "units": 1459,
+     "source_url": "https://www.legnb.ca/en/legislation/bills",
+     "sha256": "4cf1994a7ae224e81c3cf4183fcaa0af19cf4c24ceb67fad9d26468af456d1c4"
+    },
+    {
+     "from": "2022-10-11",
+     "units": 1460,
+     "source_url": "https://www.legnb.ca/en/legislation/bills",
+     "sha256": "4cf1994a7ae224e81c3cf4183fcaa0af19cf4c24ceb67fad9d26468af456d1c4"
+    },
+    {
+     "from": "2022-10-12",
+     "units": 1461,
+     "source_url": "https://www.legnb.ca/en/legislation/bills",
+     "sha256": "4cf1994a7ae224e81c3cf4183fcaa0af19cf4c24ceb67fad9d26468af456d1c4"
+    },
+    {
+     "from": "2022-12-16",
+     "units": 1485,
+     "source_url": "https://www.legnb.ca/en/legislation/bills",
+     "sha256": "4cf1994a7ae224e81c3cf4183fcaa0af19cf4c24ceb67fad9d26468af456d1c4"
+    },
+    {
+     "from": "2023-03-30",
+     "units": 1486,
+     "source_url": "https://www.legnb.ca/en/legislation/bills",
+     "sha256": "4cf1994a7ae224e81c3cf4183fcaa0af19cf4c24ceb67fad9d26468af456d1c4"
+    },
+    {
+     "from": "2023-06-16",
+     "units": 1513,
+     "source_url": "https://www.legnb.ca/en/legislation/bills",
+     "sha256": "4cf1994a7ae224e81c3cf4183fcaa0af19cf4c24ceb67fad9d26468af456d1c4"
+    },
+    {
+     "from": "2023-12-13",
+     "units": 1527,
+     "source_url": "https://www.legnb.ca/en/legislation/bills",
+     "sha256": "4cf1994a7ae224e81c3cf4183fcaa0af19cf4c24ceb67fad9d26468af456d1c4"
+    },
+    {
+     "from": "2024-06-07",
+     "units": 1554,
+     "source_url": "https://www.legnb.ca/en/legislation/bills",
+     "sha256": "4cf1994a7ae224e81c3cf4183fcaa0af19cf4c24ceb67fad9d26468af456d1c4"
+    },
+    {
+     "from": "2024-12-13",
+     "units": 1557,
+     "source_url": "https://www.legnb.ca/en/legislation/bills",
+     "sha256": "4cf1994a7ae224e81c3cf4183fcaa0af19cf4c24ceb67fad9d26468af456d1c4"
+    },
+    {
+     "from": "2025-06-06",
+     "units": 1588,
+     "source_url": "https://www.legnb.ca/en/legislation/bills",
+     "sha256": "4cf1994a7ae224e81c3cf4183fcaa0af19cf4c24ceb67fad9d26468af456d1c4"
+    },
+    {
+     "from": "2025-12-12",
+     "units": 1609,
+     "source_url": "https://www.legnb.ca/en/legislation/bills",
+     "sha256": "4cf1994a7ae224e81c3cf4183fcaa0af19cf4c24ceb67fad9d26468af456d1c4"
+    },
+    {
+     "from": "2026-06-12",
+     "units": 1637,
+     "source_url": "https://www.legnb.ca/en/legislation/bills",
+     "sha256": "4cf1994a7ae224e81c3cf4183fcaa0af19cf4c24ceb67fad9d26468af456d1c4"
+    }
+   ]
+  },
+  {
+   "slug": "legal-system",
+   "short": "Legal system",
+   "title": "New Brunswick: legal system facts (Wikidata)",
+   "url": "https://www.wikidata.org/wiki/Q1965",
+   "versions": [
+    {
+     "from": "1867-07-01",
+     "units": 1,
+     "source_url": "https://www.wikidata.org/wiki/Q1965",
+     "sha256": "wikidata-entity-Q1965"
+    },
+    {
+     "from": "2026-09-03",
+     "units": 4,
+     "source_url": "https://www.wikidata.org/wiki/Q1965",
+     "sha256": "wikidata-entity-Q1965"
+    }
+   ]
+  }
+ ]
+}
